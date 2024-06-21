@@ -40,16 +40,19 @@ Libraries
    
 4. Compile the project
    
-5. Run in cmd
-       1. Intialize the project using below commond
+5. Run in cmd-
+   
+       1. Intialize the project using below commond-
             /mkdir google-forms-app-backend
             /cd google-forms-app-backend
             /npm init -y
-       2. Compile typescript using below commond
+   
+       2. Compile typescript using below commond-
              /tsc
-       3. Run commond
+   
+       3. Run commond-
            /node dist/server.js
 
-6. As Output interface Backend server will activate will be shown using http copy that url into browser
+7. As Output interface Backend server will activate will be shown using http copy that url into browser
 
 Note : dont forgot to intall all necessary libraries  before run 
