@@ -7,7 +7,7 @@
    
 2. The backend will be an Express App made with TypeScript and using a JSON file as a database to store submissions. 
 
-3. WThe backend should have the following endpoints -
+3. The backend should have the following endpoints -
    
         1. /ping - A GET request that always returns True
         2. /submit - A POST request with parameters "name", "email", "phone", "github_link" and "stopwatch_time"
@@ -42,13 +42,13 @@ Libraries
    
 5. Run in cmd
        1. Intialize the project using below commond
-            mkdir google-forms-app-backend
-            cd google-forms-app-backend
-            npm init -y
+            /mkdir google-forms-app-backend
+            /cd google-forms-app-backend
+            /npm init -y
        2. Compile typescript using below commond
-             tsc
+             /tsc
        3. Run commond
-           node dist/server.js
+           /node dist/server.js
 
 6. As Output interface Backend server will activate will be shown using http copy that url into browser
 
